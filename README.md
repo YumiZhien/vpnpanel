@@ -2,8 +2,8 @@
 # This Installation for Ubuntu and Debian Only
 
 # How to Install
-# wget https://raw.githubusercontent.com/YumiZhien/vpnpanel/refs/heads/main/install.sh -P /root -O install.sh 
-# chmod +x /root/install.sh && bash /root/install.sh
+# wget https://raw.githubusercontent.com/YumiZhien/vpnpanel/refs/heads/main/install.sh -O install.sh 
+# chmod +x install.sh && bash install.sh
 
 # Please Support and Don't forget to follow, like, share and subscribed.
 # https://facebook.com/eugcargaming
